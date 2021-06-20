@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gallery
-permalink: /Gallery/
+title: CV
+permalink: /CV/
 ---
 
-Aquí irá una galería de imágenes en construcción.
+Aquí irá mi triste CV.
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
